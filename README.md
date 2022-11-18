@@ -1,6 +1,6 @@
 # NLP-Naive-Bayes
 
-NLP & Email Security - Use Cases (Not Covered in This Tutorial)
+NLP & Email Security - Use Cases
 
 Protect Against Zero-Day Attacks
 
