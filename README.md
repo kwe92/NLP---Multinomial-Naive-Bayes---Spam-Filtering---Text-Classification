@@ -1,4 +1,4 @@
-# NLP-Multinomial-Naive-Bayes-Spam-Filtering-Text-Classification
+# NLP-Naive-Bayes
 
 NLP & Email Security - Use Cases (Not Covered in This Tutorial)
 
